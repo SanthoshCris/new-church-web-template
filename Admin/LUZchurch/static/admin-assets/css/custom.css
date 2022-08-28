@@ -1,0 +1,11 @@
+
+.success_alert_show, .error_alert_show{
+    display: none;
+}
+
+.plr-0{
+    padding-left:0px !important;
+    padding-right:0px !important;
+
+}
+

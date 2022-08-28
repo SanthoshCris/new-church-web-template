@@ -1,0 +1,74 @@
+.father_saying {
+    color: white;
+}
+
+.testimonial-section{
+	padding-top: 100px;
+}
+
+.gallery_outline {	
+	padding: 10px 10px 10px 10px !important;
+}
+
+.suggestion_sec{
+	padding-top: 20px;
+}
+
+.footer_sec{
+	padding-top: 200px;
+}
+
+.contact_page_sec{
+	padding-top: 5px !important;
+}
+
+.pd_tp_cont {
+    padding-bottom: 100px;
+    padding-top: 78px;
+}
+
+
+.inner-head-box{
+    position: relative;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #ffffff;
+    font-weight: 400;
+    margin: 0px;
+    transition: all 500ms ease;
+    background-color: #696b7e !important;
+    border-radius: 8px;
+    box-shadow: -4px 12px 19px -5px rgb(0 0 0 / 61%);
+	margin-bottom: 21px;
+}
+
+
+
+.spl-mass-acc {
+    padding-top: 0px !important;
+    padding-left: 0px !important;
+}
+
+.pb{
+    padding-bottom: 34px !important;
+}
+
+.spl-mass-acc-icon {
+    float: right;
+}
+.spl-mass-toggle:not(.collapsed) .rotate-icon {
+    float: right;
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+
+
+.ptb24 {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+
+.justify_text{
+    text-align: justify !important;
+}
